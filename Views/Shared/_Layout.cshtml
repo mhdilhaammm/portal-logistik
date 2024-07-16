@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PORTAL LOGISTIK</title>
+    <!-- logo -->
+    <link rel="icon" href="~/asset/img/logo-infineon.png" />
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital@0;1&display=swap" rel="stylesheet" />
+    <!-- css -->
+    <link rel="stylesheet" href="~/asset/css/style.css" />
+    <link rel="stylesheet" href="~/asset/css/style-about.css" />
+    <!-- boostrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <!-- <nav> -->
+    <nav class="navbar">
+        <a href="/Home/Index" class="navbar-logo">BAT Logistic<span>portal</span></a>
+        <div class="navbar-list">
+            <a href="/Home/Index">Home</a>
+            <div class="dropdown">
+                <a href="#" class="btn">Application <i class="bi bi-caret-down-fill"></i></a>
+                <div class="dropdown-content">
+                    <a href="https://hsse.bth.infineon.com:446">Cycle Count</a>
+                    <a href="https://hsse.bth.infineon.com:450">Goods Admin</a>
+                    <a href="https://hsse.bth.infineon.com:447">KPI Peformance</a>
+                    <a href="https://hsse.bth.infineon.com:444">Shipment Request</a>
+                </div>
+            </div>
+            <a href="/Home/About">About us</a>
+        </div>
+
+        <div class="nav-user">
+            <a href="#">@User.Identity.Name</a>
+            <a href="#" id="menu">
+                <i class="bi bi-list"></i>
+            </a>
+        </div>
+    </nav>
+    <!-- </nav> -->
+    @RenderBody()
+    <!-- js -->
+    <script src="~/asset/js/effect.js"></script>
+    <script src="~/asset/js/main.js"></script>
+    <!-- boostrap icons-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

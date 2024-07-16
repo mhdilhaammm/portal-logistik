@@ -1,0 +1,14 @@
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\log-portal.exe
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\log-portal.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\log-portal.deps.json
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\log-portal.runtimeconfig.json
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\log-portal.pdb
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Features.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\ilhammuhamma\source\on-progress\log-portal\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
